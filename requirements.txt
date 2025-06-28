@@ -1,6 +1,8 @@
-streamlit
 compress-pickle
-joblib
-scikit-learn
+streamlit
 pandas
 numpy
+scikit-learn
+joblib
+openpyxl
+mysql-connector-python
