@@ -1,0 +1,6 @@
+streamlit
+compress-pickle
+joblib
+scikit-learn
+pandas
+numpy
